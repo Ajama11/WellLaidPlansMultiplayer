@@ -1,0 +1,6 @@
+{
+  "WELLLAIDPLANSMULTIPLAYER-WELL_LAID_PLANS_MULTIPLAYER_POWER.title": "Well-Laid Plans",
+  "WELLLAIDPLANSMULTIPLAYER-WELL_LAID_PLANS_MULTIPLAYER_POWER.description": "At the start of your turn, put cards that were in your [gold]Hand[/gold] at the end of the previous turn into your [gold]Hand[/gold].",
+  "WELLLAIDPLANSMULTIPLAYER-WELL_LAID_PLANS_MULTIPLAYER_POWER.smartDescription": "At the start of your turn, put up to [blue]{Amount}[/blue] {Amount:plural:card|cards} that {Amount:plural:was|were} in your [gold]Hand[/gold] at the end of the previous turn into your [gold]Hand[/gold].",
+  "WELLLAIDPLANSMULTIPLAYER-WELL_LAID_PLANS_MULTIPLAYER_POWER.selectionScreenPrompt": "Choose {Amount:plural:a card|{} cards} to add into your Hand."
+}
