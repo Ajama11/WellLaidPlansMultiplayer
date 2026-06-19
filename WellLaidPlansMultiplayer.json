@@ -2,14 +2,14 @@
   "id": "WellLaidPlansMultiplayer",
   "name": "Well-Laid Plans in Multiplayer",
   "author": "Ajama",
-  "description": "Well-Laid Plans is a great card for the Silent, but it's banned from multiplayer, presumably due to asking the player to pick cards during the enemy turn.\n\nThis mod adds in a multiplayer-safe version of Well-Laid Plans when playing multiplayer.",
-  "version": "v1.0.0",
+  "description": "Well-Laid Plans is banned from multiplayer by default even though it works perfectly fine, so this mod makes Well-Laid Plans available when playing multiplayer.\n\nPresumably MegaCrit doesn't let Well-Laid Plans be in multiplayer because of the timing of when it asks the Silent which cards to Retain. The Silent can't pick those cards until everyone else has ended their turn, [i][font_size=22]and then[/font_size][/i] everyone else has to wait on the Silent to pick cards before the enemy turn happens.",
+  "version": "v2.0.0",
   "has_pck": true,
   "has_dll": true,
-  "min_game_version": "0.105.1",
+  "min_game_version": "0.107.1",
   "dependencies":
   [
-    {"id": "BaseLib", "min_version": "3.1.3"}
+    {"id": "BaseLib", "min_version": "3.3.0"}
   ],
   "affects_gameplay": true
 }
